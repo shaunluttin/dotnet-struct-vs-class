@@ -1,0 +1,4 @@
+C:\Users\shlut\GitHub\shaunluttin\dotnet-struct-vs-class\default-values\bin\Debug\default-values.exe
+C:\Users\shlut\GitHub\shaunluttin\dotnet-struct-vs-class\default-values\bin\Debug\default-values.pdb
+C:\Users\shlut\GitHub\shaunluttin\dotnet-struct-vs-class\default-values\obj\Debug\default-values.exe
+C:\Users\shlut\GitHub\shaunluttin\dotnet-struct-vs-class\default-values\obj\Debug\default-values.pdb

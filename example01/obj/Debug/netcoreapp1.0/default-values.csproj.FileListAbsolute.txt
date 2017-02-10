@@ -1,0 +1,5 @@
+C:\Users\shlut\GitHub\shaunluttin\dotnet-struct-vs-class\default-values\bin\Debug\netcoreapp1.0\default-values.dll
+C:\Users\shlut\GitHub\shaunluttin\dotnet-struct-vs-class\default-values\bin\Debug\netcoreapp1.0\default-values.pdb
+C:\Users\shlut\GitHub\shaunluttin\dotnet-struct-vs-class\default-values\obj\Debug\netcoreapp1.0\default-values.AssemblyInfo.cs
+C:\Users\shlut\GitHub\shaunluttin\dotnet-struct-vs-class\default-values\obj\Debug\netcoreapp1.0\default-values.dll
+C:\Users\shlut\GitHub\shaunluttin\dotnet-struct-vs-class\default-values\obj\Debug\netcoreapp1.0\default-values.pdb
